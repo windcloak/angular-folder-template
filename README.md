@@ -1,3 +1,5 @@
+This is a highly scalable Angular template based off https://github.com/mathisGarberg/angular-folder-structure
+
 # AngularFolderTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
