@@ -1,22 +1,19 @@
-// import { library } from '@fortawesome/fontawesome-svg-core';
-// import * as fal from '@fortawesome/pro-light-svg-icons';
+import { library } from '@fortawesome/fontawesome-svg-core';
+
+import * as fas from '@fortawesome/free-solid-svg-icons';
+
+library.add(
+	fas.faArrowUp,
+);
+
+import { far } from '@fortawesome/free-regular-svg-icons';
 
 // library.add(
-// 	fal.faChevronCircleLeft,
-// 	fal.faPhoneVolume,
-// );
+//     far.fa
+// )
 
-// import * as far from '@fortawesome/pro-regular-svg-icons';
+import { fab } from '@fortawesome/free-brands-svg-icons';
 
-// library.add(
-// 	far.faCommentsAlt,
-// 	far.faArrowLeft,
-// 	far.faArrowUp,
-// );
-
-// import * as fas from '@fortawesome/pro-solid-svg-icons';
-
-// library.add(
-// 	fas.faCheckCircle,
-// 	fas.faGripLines,
-// );
+library.add(
+    fab.faFacebookSquare,
+)
