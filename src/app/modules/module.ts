@@ -1,7 +1,5 @@
 import { NgModule } from '@angular/core';
 
-// '@myapp/shared' 
-
 import { HomeRoutingModule } from './routing';
 
 import { PAGES } from './pages';
