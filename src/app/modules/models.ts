@@ -5,6 +5,6 @@
 // export { Technology } from './models/technology.model';
 
 export const MODELS: any[] = [
-	// Project,
-	// Technology,
+    // Project,
+    // Technology,
 ];
