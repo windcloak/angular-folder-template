@@ -2,6 +2,16 @@ This is a highly scalable Angular template based off https://github.com/mathisGa
 
 `npm start` will run the project and open a new tab for you
 
+# Installed Already
+Jquery
+Popper.js
+Bootstrap
+FontAwesome free fonts
+
+# npm
+
+Run `npm install`
+
 # AngularFolderTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
