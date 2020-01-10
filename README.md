@@ -3,10 +3,10 @@ This is a highly scalable Angular template based off https://github.com/mathisGa
 `npm start` will run the project and open a new tab for you
 
 # Installed Already
-Jquery
-Popper.js
-Bootstrap
-FontAwesome free fonts
+- Jquery
+- Popper.js
+- Bootstrap
+- FontAwesome
 
 # npm
 
