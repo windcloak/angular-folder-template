@@ -5,7 +5,8 @@ import { HomeModule } from '../app/modules';
 
 const routes: Routes = [{
 	path: '',
-	loadChildren: () => HomeModule,
+	// loadChildren: () => HomeModule, src\app\modules\routing.ts
+	loadChildren: () => import('./modules/module').then(mod => mod.HomeModule),
 	data: { preload: true }
 },
 {

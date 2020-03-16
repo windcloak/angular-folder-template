@@ -13,7 +13,7 @@ import { SharedModule } from '../shared';
 	],
 	imports: [
 		HomeRoutingModule,
-		SharedModule
+		SharedModule,
 	],
 	providers: [
 	]
