@@ -5,6 +5,6 @@ export { HostPageComponent } from './pages/host/host.component';
 export { HomePageComponent } from './pages/home/home.component';
 
 export const PAGES: any[] = [
-	HostPageComponent,
-	HomePageComponent
+    HostPageComponent,
+    HomePageComponent
 ];
