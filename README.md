@@ -4,7 +4,7 @@ This is a highly scalable Angular template based off https://github.com/mathisGa
 
 # Standard Third-Party Libraries
 - Jquery
-- Popper.js
+- popperjs/core
 - Bootstrap
 - FontAwesome free
 
@@ -15,6 +15,8 @@ Run `npm install`
 # AngularFolderTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+
+The project is updated to Angular 10.
 
 ## Development server
 
@@ -27,6 +29,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+You can also use `npm start`
 
 ## Running unit tests
 
